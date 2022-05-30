@@ -5,3 +5,4 @@
 - HF Poker (WIP)
 - [Warrior Tools (Live)](https://warriortools.io/)
 - [Hack HF (Live)](https://hackhf.dot.pm/)
+- Warriors Discord Bot (Private)
